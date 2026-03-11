@@ -1,6 +1,3 @@
-# data-science-and-ml-learning-path
-
-
 # Data Science & Machine Learning Roadmap
 
 A focused learning path using high‑quality free resources.
